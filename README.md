@@ -28,7 +28,7 @@ npx cap sync
 * [`requestPhoneNumber()`](#requestphonenumber)
 * [`startSmsReceiver()`](#startsmsreceiver)
 * [`removeSmsReceiver()`](#removesmsreceiver)
-* [`addListener('onSmsReceive', ...)`](#addlisteneronsmsreceive-)
+* [`addListener('onSmsReceive', ...)`](#addlisteneronsmsreceive)
 * [Interfaces](#interfaces)
 
 </docgen-index>
